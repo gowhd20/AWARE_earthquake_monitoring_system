@@ -13,7 +13,11 @@ Sep 2014 ~ Sep 2015
 	  
 # Algorithm for detecting an earthquake event 
 
+![alt tag](https://github.com/gowhd20/AWARE_earthquake_monitoring_system/blob/master/snippets/algorithm1.PNG)
+
 # Time sync algorithm between server and clients
+
+![alt tag](https://github.com/gowhd20/AWARE_earthquake_monitoring_system/blob/master/snippets/Cristian's_algorithm.JPG)
 
 # Tools
 	- Python with plugins
